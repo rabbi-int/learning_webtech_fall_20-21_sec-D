@@ -1,15 +1,31 @@
 <students>
-<student sl="23">
+<student >
+           <sl>23</sl>
           <name>john carter</name>
-          <date>25/12/2015</date>
+          <admission>
+            <day>25</day>
+            <month>12</month>
+            <year>2015</year>
+          </admission>
 </student>
-<student sl="29">
+<student>
+           <sl>29</sl>
           <name>Bob Marshel</name>
-          <date>13/01/1999</date>
+           <admission>
+            <day>13</day>
+            <month>01</month>
+            <year>1999</year>
+          </admission>
 </student>
-<student sl="35">
+<student >
+          <sl>35</sl>
           <name>Clark Kent</name>
-           <date>17/06/2005</date>
+            <admission>
+            <day>17</day>
+            <month>06</month>
+            <year>20105</year>
+          </admission>
+          
 </student>
 
 
